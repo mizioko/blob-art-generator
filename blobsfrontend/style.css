@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.main {
+  padding: 10px;
+  align-items: inherit;
+}
+.divheader {
+  padding: 5%;
+}
+h1 {
+  font-family: sans-serif;
+}
+#one {
+  height: 200px;
+}
+#first-heading {
+  text-align: center;
+}
+.contain {
+  display: inline-block;
+  margin: 5%;
+  padding: 10px;
+  background-color: lightblue;
+  width: 400px;
+  position: relative;
+}
+.text {
+  float: right;
+  position: relative;
+  bottom: 90px;
+  width: 200px;
+}
+button {
+}
